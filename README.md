@@ -2,9 +2,9 @@
 
 #### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://toppng.com/uploads/preview/javascript-logo-computerprogrammieren-scripting-sprache-javascript-logo-vector-11563550683rpjrwlwbux.png" alt="JavaScript" width="40" height="40"/> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://spng.subpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" alt="MySQL" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://w7.pngwing.com/pngs/199/348/png-transparent-javascript-programmer-programming-language-computer-programming-node-js-angle-text-rectangle-thumbnail.png" alt="JavaScript" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://logo-all.ru/uploads/posts/2016-02/0_mysql_logo.jpg" alt="MySQL" width="40" height="40"/> </a> 
 
 <!--
 
