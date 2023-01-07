@@ -10,7 +10,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JavaScript" width="40" height="40"/> 
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariasegura20&show_icons=true&locale=en&layout=compact" alt="mariasegura20" /></p>
+<img src="https://camo.githubusercontent.com/80c397293fe69150bb49f3730f8758d4b80a99da7b549e590d5dc42ab8bd40be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f6c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d64726163756c6126686964655f626f726465723d66616c736526757365726e616d653d7669637478726d73" height="150" alt="languages graph" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;username=mariasegura20" style="max-width: 100%;">
   
 <!--
 **mariasegura20/mariasegura20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
