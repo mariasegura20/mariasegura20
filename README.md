@@ -10,18 +10,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JavaScript" width="40" height="40"/> 
  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariasegura20&show_icons=true&locale=en&layout=compact" alt="mariasegura20" /></p>
   
-<!--
-
-
-![Logo de VisualStudio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
-![Logo de C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
-![Logo de C++](https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s1600/c-plus-plus-logo.png)
-![Logo de Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
-![Logo de HMTL5](https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png)
-![Logo de CSS3](https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png)
-![Logo de JavaScript](https://toppng.com/uploads/preview/javascript-logo-computerprogrammieren-scripting-sprache-javascript-logo-vector-11563550683rpjrwlwbux.png)
-
 <!--
 **mariasegura20/mariasegura20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
