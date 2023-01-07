@@ -1,4 +1,5 @@
 ## Computer Science Student 👩🏽‍💻
+____
 
 #### Languages and Tools:
 
@@ -7,7 +8,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://assets.stickpng.com/images/613b64fe30e8530004ba3a03.png" alt="JavaScript" width="40" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JavaScript" width="40" height="40"/> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://logo-all.ru/uploads/posts/2016-02/0_mysql_logo.jpg" alt="MySQL" width="40" height="40"/> </a> 
   
 <!--
